@@ -8,6 +8,7 @@
     padding: 20px;
     margin: 60px auto;
     position: relative;
+    box-shadow: 3px 0px #d2cdcd;
 }
 h3{
     font-size: 30px;
@@ -39,6 +40,7 @@ h3{
     position: relative;
     margin-top: -60px;
     font-size: 20px;
+    box-shadow: 3px 5px #d2cdcd;
 }
 .para{
     color: lightslategray;
