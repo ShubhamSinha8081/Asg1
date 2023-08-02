@@ -5,6 +5,7 @@
     width: 35%;
     border-radius: 10px;
     padding: 120px 60px;
+    box-shadow: 5px 10px #888888
 
 }
 h1{
@@ -22,4 +23,11 @@ h1{
     width: 250px;   
     height: 50px;
     font-size: 20px;
+}
+.btn:hover {background-color: #cecbcb}
+
+.btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
